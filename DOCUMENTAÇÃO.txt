@@ -1,0 +1,6 @@
+PARA FAZER FUNCIONAR É PRECISO UTILIZAR UMA CHAVE DA GEMINI
+configurar o arquivo: .env
+
+para utilizar um modelo customizado é preciso criar um arquivo .txt e salva-lo dentro da pasta static
+
+segue abaixo o modelo de configuração para uso do modelo customizado
